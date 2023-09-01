@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsGUI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="_safeCountVisible" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="_AnzeigeSpeichernPDF" Type="System.Windows.Forms.ListBox" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="_AnzeigeSpeichernFragen" Type="System.Windows.Forms.ListBox" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="_DocumentLoad" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
